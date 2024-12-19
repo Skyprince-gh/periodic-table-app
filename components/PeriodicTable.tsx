@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { AnimatePresence } from 'framer-motion';
 import { useElementData, Element } from '../hooks/useElementData';
 import ElementCard from './ElementCard';
 
