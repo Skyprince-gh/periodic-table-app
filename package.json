@@ -1,5 +1,5 @@
 {
-  "name": "periodic-table",
+  "name": "periodic-table-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,17 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "framer-motion": "^11.15.0",
-    "next": "15.1.1",
+    "framer-motion": "^11.16.1",
+    "next": "15.1.4",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-particles": "^2.12.2",
+    "tsparticles": "^3.7.1",
+    "tsparticles-slim": "^2.12.0"
   },
   "devDependencies": {
-   
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
